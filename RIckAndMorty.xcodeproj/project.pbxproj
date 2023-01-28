@@ -25,6 +25,7 @@
 		39BC54692975342A00FADCFB /* RMOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BC54682975342A00FADCFB /* RMOrigin.swift */; };
 		39BC546B2975351A00FADCFB /* RMSingleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BC546A2975351A00FADCFB /* RMSingleLocation.swift */; };
 		39BC546D2976FD6900FADCFB /*  RMCharacterGender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BC546C2976FD6900FADCFB /*  RMCharacterGender.swift */; };
+		39EF70FF2985060E009249A0 /* RMCharacterStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39EF70FE2985060E009249A0 /* RMCharacterStatus.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		39BC54682975342A00FADCFB /* RMOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMOrigin.swift; sourceTree = "<group>"; };
 		39BC546A2975351A00FADCFB /* RMSingleLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMSingleLocation.swift; sourceTree = "<group>"; };
 		39BC546C2976FD6900FADCFB /*  RMCharacterGender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " RMCharacterGender.swift"; sourceTree = "<group>"; };
+		39EF70FE2985060E009249A0 /* RMCharacterStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterStatus.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				39BC54682975342A00FADCFB /* RMOrigin.swift */,
 				39BC546A2975351A00FADCFB /* RMSingleLocation.swift */,
 				39BC546C2976FD6900FADCFB /*  RMCharacterGender.swift */,
+				39EF70FE2985060E009249A0 /* RMCharacterStatus.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				3925F8BC296F377700458BFC /* AppDelegate.swift in Sources */,
 				3925F8E1296F4AFE00458BFC /* RMEpisodesViewController.swift in Sources */,
 				3925F8D7296F48EB00458BFC /* RMLocation.swift in Sources */,
+				39EF70FF2985060E009249A0 /* RMCharacterStatus.swift in Sources */,
 				3925F8E5296F4B2F00458BFC /* RMSettingsViewController.swift in Sources */,
 				3925F9272971DCB200458BFC /* RMService.swift in Sources */,
 				3925F8BE296F377700458BFC /* SceneDelegate.swift in Sources */,
