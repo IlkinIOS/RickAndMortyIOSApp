@@ -139,8 +139,8 @@
 			children = (
 				3977A1FF29950C9200990B4D /* RMCharacterListView.swift */,
 				396C4DA02999167C00313404 /* RMCharacterCollectionViewCell.swift */,
-				3966731629A25BDE00401522 /* RMCharacterDetailView.swift */,
 				399F4B3829A4EEC400E18C7B /* RMFooterLoadingUICollectionReusableView.swift */,
+				3966731629A25BDE00401522 /* RMCharacterDetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";

@@ -10,10 +10,14 @@ import UIKit
 /// Controller to house tabs and root tab controllers
 final class RMTabBarController: UITabBarController {
     
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .red
         setUpTabs()
+     
     }
     
     private func setUpTabs()  {
